@@ -2,17 +2,17 @@
 
 <pre>
 
-                                ___           ___           ___       ___       ___     
-                               /\__\         /\  \         /\__\     /\__\     /\  \    
-                              /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                             /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                            /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                           /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                           \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                               /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                               \/__/         \/__/         \/__/     \/__/     \/__/    
+                            ___           ___           ___       ___       ___     
+                           /\__\         /\  \         /\__\     /\__\     /\  \    
+                          /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                         /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                        /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                       /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                       \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                            \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                            /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                           /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                           \/__/         \/__/         \/__/     \/__/     \/__/    
 
 </pre>
 
@@ -34,7 +34,8 @@ I'm a software developer and Application Development Supervisor for [@polkcounty
 
 ###### Databases
 
-![Static Badge](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=PostgreSQL&logoColor=FFF&link=https%3A%2F%2Fwww.postgresql.org%2F) ![Static Badge](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFF&link=https%3A%2F%2Fwww.mysql.com%2F) ![Static Badge](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=MSSQL&logoColor=000&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=PostgreSQL&logoColor=FFF&link=https%3A%2F%2Fwww.postgresql.org%2F) ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFF&link=https%3A%2F%2Fwww.mongodb.com
+) ![Static Badge](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFF&link=https%3A%2F%2Fwww.mysql.com%2F) ![Static Badge](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=MSSQL&logoColor=000&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)
 
 ###### Environments
 
@@ -64,13 +65,21 @@ I'm a software developer and Application Development Supervisor for [@polkcounty
 
 ![Static Badge](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=Vite&logoColor=FFF&link=https%3A%2F%2Fvite.dev%2F)
 
+###### Formatters
+
+![Static Badge](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=Biome&logoColor=FFF&link=https%3A%2F%2Fbiomejs.dev)
+
+###### Linters
+
+![Static Badge](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=Biome&logoColor=FFF&link=https%3A%2F%2Fbiomejs.dev)
+
 ###### UI Design Tools
 
 ![Static Badge](https://img.shields.io/badge/Figma-FF3737?style=for-the-badge&logo=Figma&logoColor=FFF&link=https%3A%2F%2Fwww.figma.com%2F)
 
 ###### AI Tools
 
-![Static Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=Claude&logoColor=FFF&link=https%3A%2F%2Fclaude.ai%2F) ![Static Badge](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=OpenAI&logoColor=FFF&link=https%3A%2F%2Fopenai.com%2F)
+![Static Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=Claude&logoColor=FFF&link=https%3A%2F%2Fclaude.ai%2F) ![Static Badge](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=OpenAI&logoColor=FFF&link=https%3A%2F%2Fopenai.com%2F) ![Static Badge](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=GitHub%20Copilot&logoColor=FFF&link=https%3A%2F%2Fgithub.com%2Ffeatures%2Fcopilot)
 
 ###### Developer Platform
 
@@ -78,4 +87,4 @@ I'm a software developer and Application Development Supervisor for [@polkcounty
 
 ###### My Development Environment
 
-![Static Badge](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&link=https%3A%2F%2Fcursor.com) ![Static Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&link=https%3A%2F%2Fcode.visualstudio.com%2F) ![Static Badge](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=GitHub%20Copilot&logoColor=FFF&link=https%3A%2F%2Fgithub.com%2Ffeatures%2Fcopilot) ![Static Badge](https://img.shields.io/badge/GitHub%20Desktop-000?style=for-the-badge&logo=GitHub&logoColor=FFF&link=https%3A%2F%2Fgithub.com%2Fapps%2Fdesktop) ![Static Badge](https://img.shields.io/badge/GitHub%20CLI-000?style=for-the-badge&logo=GitHub&logoColor=FFF&link=https%3A%2F%2Fcli.github.com%2F) ![Static Badge](https://img.shields.io/badge/iTerm2-000?style=for-the-badge&logo=iTerm2&logoColor=FFF&link=https%3A%2F%2Fiterm2.com%2F) ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFF&link=https%3A%2F%2Fwww.postman.com%2F) ![Static Badge](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=FFF&link=https%3A%2F%2Fobsidian.md%2F) ![Static Badge](https://img.shields.io/badge/Navicat-4083FF?style=for-the-badge&logo=Navicat&logoColor=FFF&link=https%3A%2F%2Fwww.navicat.com%2F)
+![Static Badge](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&link=https%3A%2F%2Fcursor.com) ![Static Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&link=https%3A%2F%2Fcode.visualstudio.com%2F) ![Static Badge](https://img.shields.io/badge/GitHub%20Desktop-000?style=for-the-badge&logo=GitHub&logoColor=FFF&link=https%3A%2F%2Fgithub.com%2Fapps%2Fdesktop) ![Static Badge](https://img.shields.io/badge/GitHub%20CLI-000?style=for-the-badge&logo=GitHub&logoColor=FFF&link=https%3A%2F%2Fcli.github.com%2F) ![Static Badge](https://img.shields.io/badge/iTerm2-000?style=for-the-badge&logo=iTerm2&logoColor=FFF&link=https%3A%2F%2Fiterm2.com%2F) ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFF&link=https%3A%2F%2Fwww.postman.com%2F) ![Static Badge](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=FFF&link=https%3A%2F%2Fobsidian.md%2F) ![Static Badge](https://img.shields.io/badge/Navicat-4083FF?style=for-the-badge&logo=Navicat&logoColor=FFF&link=https%3A%2F%2Fwww.navicat.com%2F)
