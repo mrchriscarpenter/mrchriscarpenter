@@ -6,7 +6,7 @@
 
 ### `$ whoami`
 
-I'm a software engineer and Application Development Supervisor for [@polkcounty](https://github.com/polkcounty), where I help build, modernize, and guide applications, internal tools, APIs, and team workflows.
+I'm a software engineer and Application Development Supervisor for [@polkcounty](https://github.com/polkcounty), where I help build, modernize, and guide the development of applications, internal tools, APIs, and team workflows.
 
 I care about software that is maintainable, understandable, and useful in the real world — systems that help teams move faster without making the future harder.
 
@@ -27,7 +27,7 @@ Go · TypeScript · Svelte · Next.js · React · PostgreSQL
 Docker · GitHub Actions · Tailwind CSS · Biome · Vitest · Playwright · Bun
 
 **Also experienced with**  
-Python · Node.js · MySQL · SQL Server · MongoDB · Azure · DigitalOcean
+Python · MySQL · SQL Server · MongoDB · Azure · DigitalOcean
 
 ### `$ featured`
 
@@ -46,8 +46,10 @@ I like setting teams up with clearer patterns, stronger defaults, better workflo
 
 ### `$ nerd_corner`
 
-- **Editor:** VS Code
-- **Terminal:** Ghostty
-- **Notes:** Obsidian
+- **Editor:** [VS Code](https://code.visualstudio.com)
+- **Terminal:** [Ghostty](https://ghostty.org)
+- **Theme:** [Catppuccin Frappé](https://catppuccin.com)
+- **Font:** [Terminess Nerd Font](https://www.nerdfonts.com/font-downloads)
+- **Notes:** [Obsidian](https://obsidian.md)
 - **Favorite vibe:** clean commits, fast feedback loops, boringly reliable software
-- **Currently interested in:** Go, Svelte, practical AI workflows, developer experience, and civic tech
+- **Currently interested in:** Go, Svelte, practical AI workflows, and developer experience
