@@ -87,9 +87,6 @@
     <!-- Title bar -->
     <rect x="24" y="27" width="852" height="49" fill="#292C3C"/>
 
-    <!-- Accent line -->
-    <rect x="24" y="24" width="852" height="3" fill="url(#accent)"/>
-
     <!-- Divider line -->
     <line x1="24" y1="76" x2="876" y2="76" stroke="#414559"/>
 
@@ -147,6 +144,11 @@
     />
   </g>
 
-  <!-- Outer border -->
+  <!-- Outer border, drawn before the accent so it does not cover the top gradient -->
   <rect x="24.5" y="24.5" width="851" height="291" rx="17.5" stroke="#414559"/>
+
+  <!-- Top accent line, drawn last so it becomes the clean top edge -->
+  <g clip-path="url(#terminal-clip)">
+    <rect x="24" y="24" width="852" height="3" fill="url(#accent)"/>
+  </g>
 </svg>
