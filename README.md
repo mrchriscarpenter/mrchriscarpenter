@@ -1,20 +1,6 @@
 # Hi, I'm Chris Carpenter
 
-<pre>
-
-                            ___           ___           ___       ___       ___     
-                           /\__\         /\  \         /\__\     /\__\     /\  \    
-                          /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                         /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                        /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                       /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                       \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                            \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                            /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                           /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                           \/__/         \/__/         \/__/     \/__/     \/__/    
-
-</pre>
+![Terminal-style GitHub profile header for Chris Carpenter](./terminal-header-catppuccin.svg)
 
 ## About Me
 
@@ -34,8 +20,7 @@ I'm a software developer and Application Development Supervisor for [@polkcounty
 
 ###### Databases
 
-![Static Badge](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=PostgreSQL&logoColor=FFF&link=https%3A%2F%2Fwww.postgresql.org%2F) ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFF&link=https%3A%2F%2Fwww.mongodb.com
-) ![Static Badge](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFF&link=https%3A%2F%2Fwww.mysql.com%2F) ![Static Badge](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=MSSQL&logoColor=000&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=PostgreSQL&logoColor=FFF&link=https%3A%2F%2Fwww.postgresql.org%2F) ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFF&link=https%3A%2F%2Fwww.mongodb.com) ![Static Badge](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFF&link=https%3A%2F%2Fwww.mysql.com%2F) ![Static Badge](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=MSSQL&logoColor=000&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)
 
 ###### Environments
 
