@@ -48,7 +48,7 @@ I like setting teams up with clearer patterns, stronger defaults, better workflo
 
 - **Editor:** [VS Code](https://code.visualstudio.com)
 - **Terminal:** [Ghostty](https://ghostty.org)
-- **Theme:** [Catppuccin Frappé](https://catppuccin.com)
+- **Theme:** [Catppuccin Macchiato](https://catppuccin.com)
 - **Font:** [Terminess Nerd Font](https://www.nerdfonts.com/font-downloads)
 - **Notes:** [Obsidian](https://obsidian.md)
 - **Favorite vibe:** clean commits, fast feedback loops, boringly reliable software
